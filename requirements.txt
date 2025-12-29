@@ -30,7 +30,7 @@ kaitaistruct==0.10
 magic-filter==1.0.9
 Mako==1.2.4
 MarkupSafe==2.1.2
-marshmallow==3.19.0
+marshmallow==3.26.2
 multidict==6.0.4
 outcome==1.2.0
 packaging==23.0
